@@ -1,5 +1,11 @@
 body {
-	color: red;
+	min-width: 320px;
+	font-size: 16px;
+	overflow-x: hidden;
+	line-height: 1.5;
+	position: relative;
+	background-color: grey;
+	color: #e4e4e4;
 }
 
 .wrap {
